@@ -1,9 +1,9 @@
 {
-  "version": 4237,
+  "version": 4249,
   "url": "https://raw.githubusercontent.com/marketproalerts-bot/markettick-fw/main/firmware.bin",
-  "md5": "409dcb08a43653992ea7d81604363bd4",
-  "sha256": "dc50be4d4fa044a54401282ffca0926db62a0956be22b3411a1f67401444e9e2",
-  "size": 1807568,
-  "notes": "round logo",
+  "md5": "44348eabb8a31ce6c0c0ae85cedb984e",
+  "sha256": "9aa4a29685455f646693f6c2f5a21ff2ef1918b9f222c6d4d7afaa5f0157e1d8",
+  "size": 1801808,
+  "notes": "v42.49",
   "min_version": 0
 }
