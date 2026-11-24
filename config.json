@@ -1,5 +1,5 @@
 {
-  "ver": 1,
+  "ver": 2,
   "faraz": {
     "0": "https://faraz.io/markets/gold-currency/tala18Estjt",
     "1": "https://faraz.io/markets/gold-currency/tala24Estjt",
@@ -21,6 +21,5 @@
     "17": "https://faraz.io/markets/crypto-spot/DOGEUSDT",
     "18": "https://faraz.io/markets/gold-currency/geramNoghre999",
     "19": "https://faraz.io/markets/gold-currency/geramNoghre925"
-  },
-  "sym": {}
+  }
 }
