@@ -15,6 +15,14 @@
       "size": "xxs",
       "color": "white",
       "tcolor": "gold"
+    },
+     {
+      "id": 14,
+      "title": "بروزرسانی لینک v4",
+      "text": "بروزرسانی لینک های جدید قیمت\n روی گزینه ی LINKS بزنید تا شماره V3 به V4  انتقال پیدا کند.",
+      "size": "xxs",
+      "color": "red",
+      "tcolor": "blue"
     }
   ]
 }
