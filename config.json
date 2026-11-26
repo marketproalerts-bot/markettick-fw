@@ -1,5 +1,5 @@
 {
-  "ver": 3,
+  "ver": 4,
   "faraz": {
     "0": "https://faraz.io/markets/gold-currency/tala18Estjt",
     "1": "https://faraz.io/markets/gold-currency/tala24Estjt",
@@ -14,7 +14,7 @@
     "10": "https://faraz.io/markets/crypto-spot/ETHUSDT",
     "11": "https://faraz.io/markets/forex/FXCM_UKOIL",
     "12": "https://faraz.io/markets/forex/FOREXCOM_XAGUSD_PER_0.01",
-    "13": "https://faraz.io/markets/crypto-irt/USDTIRT",
+    "13": "https://faraz.io/markets/gold-currency/tehranFardayi",
     "14": "https://faraz.io/markets/crypto-spot/BNBUSDT",
     "15": "https://faraz.io/markets/crypto-spot/XRPUSDT",
     "16": "https://faraz.io/markets/crypto-spot/SOLUSDT",
